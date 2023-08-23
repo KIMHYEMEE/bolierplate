@@ -1,0 +1,7 @@
+fastapi>=0.101.0,<0.102.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+numpy
+pandas
+aiofiles==0.6.0
+python-multipart
